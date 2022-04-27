@@ -1,1 +1,0 @@
-# anim3-ratings
