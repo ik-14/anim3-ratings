@@ -1,0 +1,96 @@
+/* BACKGROUND IMAGE */
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-image: url("kakashiwallpaper.gif");
+    height: 100%; 
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    opacity: 0.9;
+    font-family: tahoma;
+} 
+
+body {
+  margin: 0;
+}
+
+/*  TITLE OF EVERY PAGE */
+
+.header {
+  font-family: tahoma;
+  font-size: 25px;
+  color: #818e87;
+  padding: 0.1%; 
+  padding: 4px 4px;
+  border: 3px solid grey;
+}
+
+/*  BUTTONS OF EVERY PAGE */
+
+.menu a {
+  display: inline-block;
+  color: grey;
+  text-align: center;
+  padding: 5px 8px;
+ font-family: tahoma;
+ font-size: 30px;
+text-decoration: none;
+ 
+}
+.menu a:hover {
+  color:#DF513E;
+  transition-duration: 1s;
+}
+
+/* FORM STUFF */
+
+input[type=text], select, textarea {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  height: 25px;
+  width: fit-content;
+  font-size: 18px;
+  text-align: center;
+}
+input[type=submit] {
+  border-radius: 6px;
+  color: #DF513E;
+  background-color: #ddd7c2;
+  padding: 5px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+input[type=submit]:hover {
+ background-color: #df513e00;
+ color: #DF513E;
+ transition-duration: 0.3s;
+}
+
+.container {
+  border-radius: 8px;
+  padding: 2px;
+  color: #DF513E;
+  font-size: 23px;
+}
+
+/*  LOGIN PAGE SUBHEADING */
+
+     h2 {
+      font-family: tahoma;
+      font-size: 40px;
+      color: #818e87;
+      border-radius: 8px;
+      height: fit-content;
+      width: fit-content;
+      text-decoration: underline;
+      text-decoration-color:#818e87 ;
+
+     }
+  
