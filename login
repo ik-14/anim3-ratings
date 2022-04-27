@@ -10,9 +10,9 @@
         </div>
 
         <div class="menu">
-            <a href="anim3ratings.html">Home</a>
+            <a href="homepage.html">Home</a>
             <a href="login.html">Login</a>
-            <a href="#news">News</a>
+            <a href="info.html">Info</a>
             <a href=#watch>Watch</a>
             <a href=#best moments>Best moments</a>
         </div>
