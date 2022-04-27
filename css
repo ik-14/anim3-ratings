@@ -9,6 +9,7 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
+    background-attachment: fixed;
     opacity: 0.9;
     font-family: tahoma;
 } 
@@ -91,6 +92,57 @@ input[type=submit]:hover {
       width: fit-content;
       text-decoration: underline;
       text-decoration-color:#818e87 ;
+      margin-bottom: 0;
 
      }
-  
+
+     /* coloumn stuff */
+
+     * {
+       box-sizing: border-box;
+     }
+
+     .coloumn {
+       text-decoration: none;
+       width: 50%;
+       padding: 20px;
+     }
+     .coloumn2 {
+    
+       width: 50%;
+       padding: 10px;
+      
+     }
+     .coloumn3 { 
+
+    width: 50%;
+    padding: 25px;
+ }
+
+ .para {
+   font-size: 19px;
+   color: #DF513E;
+ }
+ 
+         .newsheading {
+      font-family: tahoma;
+      font-size: 40px;
+      color: #626e6b;
+      border-radius: 8px;
+      height: fit-content;
+      width: fit-content;
+      text-decoration: underline;
+      text-decoration-color:#626e6b ;
+
+     }
+
+     a {
+      font-family: tahoma;
+      font-size: 40px;
+      color: #626e6b;
+      border-radius: 8px;
+      height: fit-content;
+      width: fit-content;
+      text-decoration: underline;
+      text-decoration-color:#626e6b;
+     }
