@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <title> anim3ratings </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <center>
+            
+            <div class="header">
+            <h1> Anim3 ratings</h1>
+        </div>
+        
+                   </body>
 
+<div class="menu">
+    <a href="homepage.html">Home</a>
+    <a href="login.html">Login</a>
+    <a href="info.html">Info</a>
+    <a href=#watch>Watch</a>
+    <a href=#best moments>Best moments</a>
+</div>
+
+<h2> Info </h2>
+
+<div class ="coloumn">
+    <div class="newsheading"
+    <h1><a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></h1>
+    </div>
+    <div class="para">
+    <p> Naruto 
+    (Japanese: NARUTOナルト) is a Japanese manga series written
+        and illustrated by Masashi Kishimoto.  </p>
+</div>
+</div>
+
+<br>
+
+<div class="coloumn2">
+    <div class="newsheading"
+    <h1><a href="https://en.wikipedia.org/wiki/Jujutsu_Kaisen">Jujutsu Kaisen</a></h1>
+    </div>
+    <div class="para">
+    <p> Jujutsu Kaisen (呪術廻戦)
+        is a Japanese manga series written and illustrated by Gege Akutami.</p>
+    </div>
+</div>
+
+<br>
+
+<div class="coloumn3">
+    <div class="newsheading"
+     <h1><a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer </a></h1>
+</div>
+     <div class="para">
+    <p> Demon Slayer: Kimetsu no Yaiba (鬼滅の刃,
+        Kimetsu no Yaiba, is a Japanese manga series written and illustrated by Koyoharu Gotouge. </p>
+    </div>
+</div>
+</center>
+    </head>
+</html>
