@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <title> anim3ratings </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+
+        <body> 
+            <center>
+                <div class="header">
+           <h1> Anim3 ratings</h1>
+        </div>
+           </body>
+
+<div class="menu">
+    <a href="anim3ratings.html">Home</a>
+    <a href="login.html">Login</a>
+    <a href="#news">News</a>
+    <a href=#watch>Watch</a>
+    <a href=#best moments>Best moments</a>
+</div>
+</center>
+    </head>
+</html>
