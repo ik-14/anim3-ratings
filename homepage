@@ -1,23 +1,116 @@
 <!doctype html>
 <html>
+  <style>
+    html {
+    background-color:#b5b3c8;
+    }
+    </style>
     <head>
         <title> anim3ratings </title>
         <link rel="stylesheet" type="text/css" href="style.css">
 
-        <body> 
-            <center>
+<center>
+  <div class="banner">
+  <div class="menu">
+  <a href style="color:#e06151"homepage.html">Home</a>
+  <a href="login.html">Login</a>
+  <a href="info.html">Info</a>
+  <a href="watch.html">Watch</a>
+  <a href="best.moments.html">Best moments</a>
+</div>
+</div>
                 <div class="header">
            <h1> Anim3 ratings</h1>
         </div>
+                 </head>  
+                 <body>
+            
 
-<div class="menu">
-    <a href="homepage.html">Home</a>
-    <a href="login.html">Login</a>
-    <a href="info.html">Info</a>
-    <a href=#watch>Watch</a>
-    <a href=#best moments>Best moments</a>
+ </center>
+     <div class="rightcolumn">
+     <div class="container2">
+  <img src="train2.gif" alt="picture" style="height:400px; width:100%;" >
+  <div class="text-block">
+    <center><h2>About Me</h2></center>
+  <p>My name is Ismail Khalil and I am a current sixth form student studying ICT. This is my first website that I have coded and I hope you enjoy it. Follow me on insta @ish.4_ <br> ;)</p>
+    </div>
+    </div>
+    </div>
+
+ <div class="row">
+  <div class="column">
+    <div class="hmtext">
+<h4>CHAINSAW MAN ANIME TO RELEASE LATE 2022</h4>
+<img src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/06/
+chainsaw-man-trailer.png?resize=1000%2C600&ssl=1"
+ width="500" height="255" alt="Chainsaw man image">
+<p class="homepagep">There are literally thousands of manga series from around the world available for you to read online, but there arent
+   that many series quite like Chainsaw Man.<br><br>
+ 
+With a considerably darker theme than many other traditional series, alongside extremely gory violence and a set of superb characters,
+the manga has become a fan-favourite over recent years.<br><br>
+ 
+However, the series has now received a major update; confirmation from Crunchyroll that the Chainsaw Man anime adaptation will be streaming
+via their platform when it releases later in 2022!</p>
+<div class="menu3">
+ <a href="https://www.hitc.com/en-gb/2022/05/18/chainsaw-man-anime-manga-adaptation-mappa-and-release-date/">Read More</a>
 </div>
-</center>
-        </body>
-    </head>
+  </div>
+  </div>
+ 
+<div class="row">
+  <div class="column">
+    <div class="hmtext">
+<h4>ANIME CHARACTERS LUFFY WOULD BE FRIENDS WITH</h4>
+<img src="https://staticg.sportskeeda.com/editor/2022/03/d88fc-16470152592788.png?w=500"
+ width="500" height="255" alt="Luffy image">
+<p class="homepagep">One Pieces Monkey D. Luffy is often regarded as one of the friendliest and most lovable characters in all of anime.
+   His prioritization of his friends well-being above all other things, including his beloved food,
+   clearly demonstrates the true nature of One Pieces protagonist.<br><br>
+ 
+While hes certainly able to get along with many other One
+ Piece characters, Luffys luck with making friends likely wouldnt be
+ restricted to characters from his own series. In fact, many fellow shonen
+ anime protagonists would befriend Luffy easily because of his charm and charisma.</p>
+ <div class="menu3">
+  <a href="https://www.sportskeeda.com/anime/one-piece-10-anime-characters-luffy-great-friends?ref=animepage">Read More</a>
+ </div>
+  </div>
+</div>
+</div>
+ 
+ <div class="row">
+  <div class="column">
+    <div class="hmtext">
+<h4>BORUTO CHAPTER 72 IS TAKING A SHORT BREAK</h4>
+<img src="https://m.media-amazon.com/images/M/MV5BMDFjYTc1ODgtNjRlNi00ZDllLTg3ZGYtMjJlYTA0NjBkYWZlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+ width="500" height="255" alt="Naruto image">
+<p class="homepagep">Mondays are typically the most difficult day to get through as students and professionals alike face a full working week.
+
+However, fans of the Boruto franchise had a rather exciting start Monday, with the 71st chapter of the Naruto Next Generations manga launching around the world via Viz Media and Manga Plus to another fabulous global reception.<br><br> 
+As fans from all corners of the globe read, digest and discuss Nuisance, it has sadly just been revealed that the Boruto manga will be taking a short break next month before the release of chapter 72 heres everything you need to know.  </p>
+ <div class="menu3">
+  <a href="https://www.hitc.com/en-gb/2022/06/22/boruto-chapter-72-is-reportedly-taking-a-short-break-before-releasing-in-august/">Read More</a>
+ </div>
+  </div>
+  </div>
+ 
+<div class="row">
+  <div class="column">
+    <div class="hmtext">
+<h4>ONE PIECE CHAPTER 1054 RELEASE DATE CONFIRMED</h4>
+<img src="data:image/jpeg;base64,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"
+ width="500" height="255" alt="Luffy image">
+<p class="homepagep">The One Piece community has known for some time that the iconic manga series was slowly moving towards its final conclusive story arc, especially following the ending of Kaido vs Luffy on the Onigashima rooftop last month.
+
+However, not many fans would have expected the shock announcement earlier this month that the final arc in the manga will be arriving much sooner than anticipated.<br><br>
+ 
+In fact, the One Piece final arc is so close to being produced by Eiichiro Oda that the mangaka has now decided to take a one-month break to prepare heres everything you need to know about the delay and release date for manga chapter 1054.</p>
+<div class="menu3">
+<a href="https://www.hitc.com/en-gb/2022/06/26/one-piece-manga-prepares-for-final-story-arc-with-one-month-break/">Read More</a>
+</div>
+</div>
+</div>
+                 </body>
+   
 </html>
