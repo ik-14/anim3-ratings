@@ -1,60 +1,101 @@
 <!DOCTYPE html>
 <html>
+        <style>
+        html {
+            background-color:#9d9f8e;
+        }
+    </style>
   <head>
+    <body>
         <title> anim3ratings </title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <center>
-            
+          <div class="banner">
+           <div class="menu">
+    <a href="homepage.html">Home</a>
+    <a href="login.html">Login</a>
+    <a href style="color:#e06151"info.html">Info</a>
+    <a href="watch.html">Watch</a>
+    <a href="best.moments.html">Best moments</a>
+</div>
+          </div>
             <div class="header">
             <h1> Anim3 ratings</h1>
         </div>
-        
-                   </body>
+        </center>
+                   
+ 
+ 
 
-<div class="menu">
-    <a href="homepage.html">Home</a>
-    <a href="login.html">Login</a>
-    <a href="info.html">Info</a>
-    <a href=#watch>Watch</a>
-    <a href=#best moments>Best moments</a>
-</div>
+ 
 
-<h2> Info </h2>
-
-<div class ="coloumn">
-    <div class="newsheading"
+ 
+<div class="row">
+<div class ="column2">
+    <div class="newsheading">
+        <div class="menu2">
+            <center>
     <h1><a href="https://en.wikipedia.org/wiki/Naruto">Naruto</a></h1>
-    </div>
+            </center>
+        </div>
+</div>
+<div class="intext">
+    <h5>By Masashi Kishimoto</h5>
     <div class="para">
-    <p> Naruto 
-    (Japanese: NARUTOナルト) is a Japanese manga series written
-        and illustrated by Masashi Kishimoto.  </p>
+    <p> Summary: <br>
+   Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi,
+    the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village,
+     and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village,
+      the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto
+       is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the
+        Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to bec
+        ome the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.Naruto is one of the best-selling manga series in history having 250 million copies in circulation worldwide in 47 countries and regions, with 153 million copies in Japan alone and remaining 97 million copies elsewhere. It has become one of Viz Media's best-selling manga series; their English translations of the volumes have appeared on USA Today and The New York Times bestseller list several times, and the seventh volume won a Quill Award in 2006. </p>
+</div>
 </div>
 </div>
 
-<br>
 
-<div class="coloumn2">
-    <div class="newsheading"
+ 
+ 
+
+<div class ="column2">
+    <div class="newsheading">
+    <div class="menu2">
+        <center>
     <h1><a href="https://en.wikipedia.org/wiki/Jujutsu_Kaisen">Jujutsu Kaisen</a></h1>
+        </center>
     </div>
+</div>
+<div class="intext">
+        <h5>By Gege Akutami</h5>
     <div class="para">
-    <p> Jujutsu Kaisen (呪術廻戦)
-        is a Japanese manga series written and illustrated by Gege Akutami.</p>
+    <p> Summary: <br>
+       Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the "King of Curses." Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.Jujutsu Kaisen is licensed for English-language release in North America by Viz Media, who has been publishing the manga in print since December 2019. Shueisha publishes the series in English on the Manga Plus online platform. </p>
     </div>
 </div>
+</div>
 
-<br>
 
-<div class="coloumn3">
-    <div class="newsheading"
+
+<div class ="column2">
+    <div class="newsheading">
+    <div class="menu2">
+        <center>
      <h1><a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer </a></h1>
-</div>
+        </center>
+    </div>
+     </div>
+     <div class="intext">
+     <h5>By Koyoharu Gotouge</h5>
      <div class="para">
-    <p> Demon Slayer: Kimetsu no Yaiba (鬼滅の刃,
-        Kimetsu no Yaiba, is a Japanese manga series written and illustrated by Koyoharu Gotouge. </p>
+    <p> Summary: <br>
+      Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night. When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity. </p>
     </div>
 </div>
-</center>
+</div>
+
+ 
+
+    </body>
     </head>
 </html>
