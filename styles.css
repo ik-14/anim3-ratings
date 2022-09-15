@@ -1,0 +1,23 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.grid-cont{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows:min-content;
+  
+}
+
+.separator{
+  margin-bottom: 38px;
+  margin-left: 20px;
+  margin-right: 20px;
+  box-shadow: 5px 5px 5px 5px rgba(105, 118, 79, 0.117);
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.div-naruto{
+
+}
